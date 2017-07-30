@@ -5,10 +5,10 @@
 ![tool](https://img.shields.io/badge/tool-PhotoshopCC-blue.svg)
 ![tool](https://img.shields.io/badge/tool-IllustratorCC-yellow.svg)
 ![tool](https://img.shields.io/badge/tool-Blender-green.svg)
-![language](https://img.shields.io/badge/language-C-sharp-red.svg)
+![language](https://img.shields.io/badge/language-Csharp-red.svg)
 ## 概要
 - タップでボールを左右に動かし絶壁に落ちないようにコントロールする暇つぶしゲーム
-　　　　スコアが高くなるに連れ速度が早くなり、どんどん難しくなる仕組み
+- スコアが高くなるに連れ速度が早くなり、どんどん難しくなる仕組み
 ## 備考
 2年前独学でチュートリアルを見ながら開発していたので大量のSwitch文が目に止まってしまう。。。
 ## Ball Run Awayダウンロード
